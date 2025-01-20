@@ -15,7 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-[Imgur Link]](https://imgur.com/a/GgtaLAU)
+[Imgur Link](https://imgur.com/a/GgtaLAU)
 
 ## App Brainstorming (Step 4)
 
