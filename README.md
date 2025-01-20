@@ -37,7 +37,7 @@ Favorite Apps/Features:
     - Easy to use points center that allows me to see what rewards I'm elligble for
     - Dedicated section for "Earn Points" code that lets me earn points when ordering in-person
 
-App Idea
+App Idea:
 I’m thinking of creating a productivity-focused iOS app inspired by the Brick product, which uses a physical
 NFC tag to lock access to distracting apps until you scan the tag to unlock them. I recently found an
 open-source alternative called [Broke](https://posts.oztamir.com/broke-an-open-source-alternative-to-brick/) 
